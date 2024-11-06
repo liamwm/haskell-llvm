@@ -1,0 +1,2 @@
+This is my attempt at making a LLVM Frontend for Haskell, written in C++. 
+I use [PEGTL](https://github.com/taocpp/PEGTL) for parsing. So far it can construct a parse tree for a simple Haskell program. This is not something I am actively working on.
